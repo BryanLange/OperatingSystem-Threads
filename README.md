@@ -1,4 +1,4 @@
-# OperatingSystem-Threads
+# Threads
 
 <ul>
   <li> About: This program uses two levels of pthreads to find
